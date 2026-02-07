@@ -157,6 +157,11 @@
 ,[93,80,"mx_grass2"]
 ,[92,84,"mx_grass"]
 ,[86,86,"mx_grass"]
+,[111,82,"mx_grass"]
+,[111,84,"mx_trees2"]
+,[114,82,"mx_grass"]
+,[114,87,"mx_trees2"]
+,[114,91,"mx_point_burned_ground"]
 ],[[99,51,"mx_bugout"]
 ,[132,57,"mx_bugout"]
 ],[],[],[],[],[],[],[],[],[]]}
