@@ -148,6 +148,12 @@
 ,[104,96,"mx_point_burned_ground"]
 ,[101,79,"mx_grass"]
 ,[99,83,"mx_blackberry_patch"]
+,[99,84,"mx_shrubbery"]
+,[102,76,"mx_grass"]
+,[103,75,"mx_fallen_shed"]
+,[103,74,"mx_grass"]
+,[105,72,"mx_grass2"]
+,[106,72,"mx_grass2"]
 ],[[99,51,"mx_bugout"]
 ,[132,57,"mx_bugout"]
 ],[],[],[],[],[],[],[],[],[]]}
